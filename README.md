@@ -10,7 +10,7 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me X - https://X.com/rajanchoksi79
+- 📫 How to reach me X - https://X.com/Rajanchoksi79
 
 - 😄 Pronouns: He/Him
 
