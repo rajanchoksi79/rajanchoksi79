@@ -1,9 +1,19 @@
 - 👋 Hi, I’m @rajanchoksi79
-- 👀 I’m interested in full stack web/mobile development, low level programming
-- 🌱 I’m currently learning Rust, Linux
+ 
+- 👀 Tech stack:
+    - Languages: Javascript, Typescript, Python
+    - Frontend: Vue, React, TailwindCSS
+    - Backend: Express, Nest, FastAPI
+    - Database: MySql, MongoDB
+
+- 🌱 I’m currently learning Rust, Linux, Basic DevOps
+
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 How to reach me X - https://X.com/rajanchoksi79
+
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: ...
 
 <!---
