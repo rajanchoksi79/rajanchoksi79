@@ -6,7 +6,7 @@
     - Backend: Express, Nest, FastAPI
     - Database: MySql, MongoDB
 
-- 🌱 I’m currently learning Rust, Linux, Basic DevOps
+- 🌱 I’m currently learning Rust and LinuxOS
 
 - 💞️ I’m looking to collaborate on ...
 
