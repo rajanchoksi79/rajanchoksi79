@@ -2,11 +2,11 @@
  
 - 👀 Tech stack:
     - Languages: Javascript, Typescript, Python
-    - Frontend: Vue, React, TailwindCSS
+    - Frontend: Vue, React, React Native, TailwindCSS
     - Backend: Express, Nest, FastAPI
-    - Database: MySql, MongoDB
+    - Database: MySql, MongoDB, PostgreSql
 
-- 🌱 I’m currently learning Rust and LinuxOS
+- 🌱 I’m currently learning Rust, C and Systems Programming
 
 - 💞️ I’m looking to collaborate on ...
 
