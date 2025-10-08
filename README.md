@@ -6,7 +6,7 @@
     - Backend: Express, Nest, Dotnet Core
     - Database: MySql, MongoDB, PostgreSql
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ...
 
 - 💞️ I’m looking to collaborate on ...
 
