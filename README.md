@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajanchoksi79
  
 - 👀 Tech stack:
-    - Languages: Javascript, Typescript, C#, Python
+    - Languages: Javascript, Typescript, C#, Python, C, C++ and Assembly
     - Frontend: Vue, React, React Native, TailwindCSS
     - Backend: Express, Nest, Dotnet Core
     - Database: MySql, MongoDB, PostgreSql
